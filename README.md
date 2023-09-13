@@ -5,7 +5,8 @@
 
 ### :man_technologist: Обо мне:
 
-Я frontend developer. Мой путь в IT начался с написания простых лендингов на ванильных инструментах. После этого я начал изучать веб-фреймворки, выбор мой пал на react. Пишу я на нем около 3 лет, всегда рад познавать что-то новое в обширном комьюнити react. Мой основной стэк - | React/Next | TS/JS | Redux/RTK | Styled Components | SCSS | TailwindCSS | Material/Ant |. Так-же я интересуюсь бэкенд разработкой как на чистом express, так и на фреймворке Nest.js, мой стэк в бэкенде - | Nest | TS | Jest | JWT/Sessions | Postgres/Mongo | TypeORM/Prisma/Sequalize |
+Я frontend developer. Мой путь в IT начался с написания простых лендингов на ванильных инструментах. После этого я начал изучать веб-фреймворки, выбор мой пал на react. Пишу я на нем около 3 лет, всегда рад познавать что-то новое в обширном комьюнити react. Мой основной стэк - | `React/Next` | `TS/JS` | `Redux/RTK` | `Styled Components` | `SCSS` | `TailwindCSS` | `Material/Ant` |. Так-же я интересуюсь бэкенд разработкой как на чистом express, так и на фреймворке Nest.js, мой стэк в бэкенде - | `Nest` | `TS` | `Jest` | 
+`JWT/Sessions` | `Postgres/Mongo` | `TypeORM/Prisma/Sequalize` |
 
 - :telescope: Часто пишу пэт проекты как по frontend так и по backend части
 
