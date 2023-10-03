@@ -14,8 +14,7 @@
 
 - :zap: Full time в кодинге!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-manihate_u-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/manihate_u) [![VK Badge](https://img.shields.io/badge/-dude.ihate_u-blue?style=flat&logo=VK&logoColor=white)](vk.com/dude.ihate_u)
-
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-manihate_u-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/manihate_u) 
 ---
 
 ### 💻 Технологии:
