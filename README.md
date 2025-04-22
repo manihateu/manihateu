@@ -1,52 +1,110 @@
+<p align="center">
+  <img src="https://wallpapers.com/images/hd/aesthetic-youtube-2048-x-1152-background-dcthboszixqa0ejt.jpg" alt="dark aesthetic banner" width="100%"/>
+</p>
 
-# Привет, меня зовут Никита!
+<h1 align="center">
+  <span style="color: #FFAE00;">manihateu</span> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
----
+<p align="center">
+   <span style="color: #b0b0b0; font-size: 18px; font-family: 'Courier New', monospace;">
+      ███╗░░░███╗░█████╗░███╗░░██╗██╗██╗░░██╗░█████╗░████████╗███████╗██╗░░░██╗<br>
+      ████╗░████║██╔══██╗████╗░██║██║██║░░██║██╔══██╗╚══██╔══╝██╔════╝██║░░░██║<br>
+      ██╔████╔██║███████║██╔██╗██║██║███████║███████║░░░██║░░░█████╗░░██║░░░██║<br>
+      ██║╚██╔╝██║██╔══██║██║╚████║██║██╔══██║██╔══██║░░░██║░░░██╔══╝░░██║░░░██║<br>
+      ██║░╚═╝░██║██║░░██║██║░╚███║██║██║░░██║██║░░██║░░░██║░░░███████╗╚██████╔╝<br>
+      ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝░╚═════╝░
+  </span>
+</p>
 
-### :man_technologist: Обо мне:
+<p align="center">
+  <span style="color: #b0b0b0; font-size: 18px;">
+    Middle+ Frontend developer | Middle+ Mobile developer | Middle Backend developer
+  </span>
+</p>
 
-Я frontend developer. Мой путь в IT начался с написания простых лендингов на ванильных инструментах. После этого я начал изучать веб-фреймворки, выбор мой пал на react. Пишу я на нем около 3 лет, всегда рад познавать что-то новое в обширном комьюнити react. Мой основной стэк - | `React/Next` | `TS/JS` | `Redux/RTK` | `Styled Components` | `SCSS` | `TailwindCSS` | `Material/Ant` |. Так-же я интересуюсь бэкенд разработкой как на чистом express, так и на фреймворке Nest.js, мой стэк в бэкенде - | `Nest` | `TS` | `Jest` | 
-`JWT/Sessions` | `Postgres/Mongo` | `TypeORM/Prisma/Sequalize` |
+## 🖤 Обо мне
 
-- :telescope: Часто пишу пэт проекты как по frontend так и по backend части
+```python
+class Developer {
+    constructor() {
+        this.name = "manihateu";
+        this.role = "FullStack Developer (Frontend Focus)";
+        this.education = "🎓 4 курс университета";
+        this.experience = "⚡ 4 года коммерческого опыта во Frontend-разработке";
+        this.passion = "Я НЕ НОРМАЛЬНЫЙ!";
 
-- :seedling: Являюсь действующим middle frontend developer'ом
+        this.stack = {
+            frontend: {
+                frameworks: ["React", "Next.js"],
+                buildTools: ["Webpack", "Vite"],
+                stateManagement: [
+                    "Redux", "@reduxjs/toolkit", "Effector", 
+                    "Jotai", "Zustand"
+                ],
+                styling: [
+                    "SCSS", "Styled Components", "TailwindCSS", 
+                    "Framer Motion"
+                ],
+                auth: ["JWT", "Sessions", "Keycloak", "OAuth"]
+            },
+            mobile: {
+                main: ["React Native", "Expo"],
+                native: ["NativeWind", "Reanimated 2"],
+                deployment: ["AppStore", "Google Play"]
+            },
+            backend: {
+                main: ["Nest.js"],
+                databases: ["PostgreSQL", "MongoDB", "Redis"],
+                orm: ["Prisma", "TypeORM"],
+                advanced: ["WebSockets", "GraphQL", "CRUD"]
+            },
+            devOps: ["Docker", "GitHub Actions", "CI/CD"],
+            workflow: ["Jira", "Trello", "Scrum", "Retro"]
+        };
+    }
 
-- :zap: Full time в кодинге!
+    toString() {
+        return `${this.name} | ${this.role}`;
+    }
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-manihate_u-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/manihate_u) 
----
+    printBio() {
+        console.log(`\n${this.toString()}\n`);
+        console.log(`🔥 ${this.passion}\n`);
+        console.log("🚀 Мой стэк:\n");
 
-### 💻 Технологии:
-[![My Skills](https://skills.thijs.gg/icons?i=git,html,css,scss,tailwind,bootstrap,materialui,js,ts,react,next,redux,nodejs,nest,express,sequelize,prisma,postgres,mongodb,vite,webpack,docker)](https://skills.thijs.gg)
+        for (const [category, technologies] of Object.entries(this.stack)) {
+            console.log(`📌 ${category.toUpperCase()}:`);
+            for (const [subcat, items] of Object.entries(technologies)) {
+                if (Array.isArray(items)) {
+                    console.log(`   ▸ ${subcat}: ${items.join(", ")}`);
+                }
+            }
+            console.log("");
+        }
 
+        console.log(`
+        -----
+        Работал в Scrum-командах: спринты, ретро, демо
+        Инструменты: ${this.stack.workflow.join(", ")}
+        -----
+        Всегда рад учиться новому! Готов к крутым проектам 💻
+        `);
+    }
+}
 
----
+const me = new Developer();
+me.printBio();
+```
 
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-</div>
-
----
-
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=manihateu&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manihateu&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,js,react,tailwind,next,nest,postgres,mongodb,git,docker,linux,github&theme=dark" alt="Технологический стек"/> </p> <div align="center">
+🌌 Контакты
+<p align="center"> 
+  <a href="https://t.me/manihate_u" target="_blank"> 
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=1a1a1a&labelColor=FFAE00" alt="Telegram"/> 
+  </a> 
+  <a href="https://github.com/manihateu" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=1a1a1a&labelColor=FFAE00" alt="GitHub"/> 
+  </a> 
+  <a href="mailto:nik852.nikita@mail.ru" target="_blank"> 
