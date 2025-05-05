@@ -98,6 +98,10 @@ const me = new Developer();
 me.printBio();
 ```
 
+<p align="center">
+  <img src="./image.png" alt="my" width="100%"/>
+</p>
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,js,react,tailwind,next,nest,postgres,mongodb,git,docker,linux,github&theme=dark" alt="Технологический стек"/> </p> <div align="center">
 🌌 Контакты
 <p align="center"> 
